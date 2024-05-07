@@ -30,7 +30,9 @@ From the above characteristic table, we can directly write the next state equati
 
 /* write all the steps invloved */
 
-![image](https://github.com/swathisiva212/T-FLIPFLOP-POSEDGE/assets/155249892/620e86f9-8284-45fc-8531-ab9cfab6c85c)
+![image](https://github.com/swathisiva212/T-FLIPFLOP-POSEDGE/assets/155249892/724a3093-c41d-4358-98a1-e82f654cd763)
+
+
 
 **PROGRAM**
 
